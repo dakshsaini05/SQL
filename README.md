@@ -7,6 +7,7 @@ This repository contains all the SQL concepts, queries, and practice exercises t
 📌 About This Repository
 
 This repository includes:
+
 🗄️ Database creation scripts
 
 📊 Table creation & constraints
@@ -33,12 +34,14 @@ This repository includes:
 
 
 🛠️ Technologies Used:
+
 SQL
 
 MySQL
 
 
 🎯 Purpose:
+
 To build strong fundamentals in SQL
 
 To prepare for technical interviews
